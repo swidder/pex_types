@@ -11,13 +11,13 @@ R scripts for respective figures located in directories<br>
 ### FIG2_TIME_DEPENDENCY
 ### FIG3_NW
 ### FIG4_PATHOGENROLE
-### NWs 
- &nbsp;&nbsp;&nbsp;&nbsp;time series-wise collection of inferred graphs & topology parameters
-### HARMONIZE_FIGURES
-&nbsp;&nbsp;&nbsp;&nbsp;auxiliary functions for main and supplemental figures, will be sourced automatically
+## AUXILIARIES
 ### DATA_INPUT
-&nbsp;&nbsp;&nbsp;&nbsp;phyloseq object storing data & metadata is labeled "EC880F1B.rda"<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;phyloseq object storing data & metadata is labeled "EC880F1B.rda"
+### DATA_INPUT/NWs 
+ &nbsp;&nbsp;&nbsp;&nbsp;time series-wise collection of inferred co-occurrence graphs & topology parameters
+### HARMONIZE_FIGURES
+&nbsp;&nbsp;&nbsp;&nbsp;auxiliary functions for main and supplemental figures, will be sourced automatically<br>
 ## SUPPLEMENTAL FIGURES AND ANALYSES
 R scripts for supplemental figures located in directories<br>
 ### SUPP_FIG1
