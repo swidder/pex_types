@@ -1,7 +1,7 @@
 # pex_types
-R scripts used for S. Widder, K. Opron, L. Carmody, L. Kalikin, L. Caverly, J. LiPuma (2023) "Microbial community organization designates distinct pulmonary exacerbation types and predicts treatment outcome in cystic fibrosis."
+R scripts used for S. Widder, L. Carmody, K. Opron, L. Kalikin, L. Caverly, J. LiPuma "Microbial community organization designates distinct pulmonary exacerbation types and predicts treatment outcome in cystic fibrosis."
 
-R scripts by Stefanie Widder 2023
+R scripts by Stefanie Widder 2024
 
 # NAVIGATION
 
@@ -22,7 +22,10 @@ R scripts for respective figures located in directories<br>
 R scripts for supplemental figures located in directories<br>
 ### SUPP_FIG1
 ### SUPP_FIG2 
+### SUPP_FIG3 
 &nbsp;&nbsp;&nbsp;&nbsp;original code in FIG2_TIME_DEPENDENCY, FIG1_CLUSTERING/1BCD_PCA_CLUSTERING_CHI
-### SUPP_FIG3
-&nbsp;&nbsp;&nbsp;&nbsp;original code in FIG2_TIME_DEPENDENCY
 ### SUPP_FIG4
+### SUPP_FIG5
+&nbsp;&nbsp;&nbsp;&nbsp;original code in FIG2_TIME_DEPENDENCY
+### SUPP_FIG6
+### SUPP_FIG7
